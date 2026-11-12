@@ -10,10 +10,10 @@ patches:
 images:
 - name: jipeso/broadcaster
   newName: jipeso/broadcaster
-  newTag: 2114cd46f4ea961a9d4371b4bb0856f991a1672d
+  newTag: 492315645d54b4bd8546c768a7432a0ebd2bf80f
 - name: jipeso/todo-app
   newName: jipeso/todo-app
-  newTag: 2114cd46f4ea961a9d4371b4bb0856f991a1672d
+  newTag: 492315645d54b4bd8546c768a7432a0ebd2bf80f
 - name: jipeso/todo-backend
   newName: jipeso/todo-backend
-  newTag: 2114cd46f4ea961a9d4371b4bb0856f991a1672d
+  newTag: 492315645d54b4bd8546c768a7432a0ebd2bf80f
