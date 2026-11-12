@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/jipeso/KubernetesSubmissions
+    repoURL: https://github.com/jipeso/dwk-project-config
     targetRevision: main
-    path: manifests/project/overlays/production
+    path: overlays/production
   destination:
     server: https://kubernetes.default.svc
     namespace: production
